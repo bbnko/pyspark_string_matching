@@ -1,0 +1,20 @@
+source,receipt_id,user_id,receipt_total,store,item_description
+source1,s1u110store1,s1u1,10,store1,apple
+source1,s1u110store1,s1u1,10,store1,banana
+source1,s1u217store2,s1u2,17,store2,tea
+source1,s1u217store2,s1u2,17,store2,sugar
+source1,s1u217store2,s1u2,17,store2,paper bag
+source1,s1u325store3,s1u3,25,store3,water 1L
+source1,s1u325store3,s1u3,25,store3,orange juice
+source1,s1u325store3,s1u3,25,store3,plastic bag
+source2,s2u110store1,s2u1,10,store1,bananas
+source2,s2u110store1,s2u1,10,store1,apples
+source2,s2u217store2,s2u2,17,store2,tea
+source2,s2u217store2,s2u2,17,store2,sugar
+source2,s2u217store2,s2u2,17,store2,paper bag
+source2,s2u370store4,s2u3,70,store4,ice cream
+source2,s2u370store4,s2u3,70,store4,potatoes
+source2,s2u370store4,s2u3,70,store4,water 1L
+source2,s2u370store4,s2u3,70,store4,water 1L
+source2,s2u370store4,s2u3,70,store4,water 1L
+source2,s2u370store4,s2u3,70,store4,water 1L
